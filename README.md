@@ -41,4 +41,4 @@ Generated a clear view of sales performance across months and locations
 
 Helped to suggest the best-performing products and ideal times for marketing campaigns
 
-Developed data storytelling skills through interactive visualization
+Developed data storytelling skills through interactive visualization.
